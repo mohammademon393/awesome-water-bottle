@@ -1,0 +1,14 @@
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.list {
+    border: 2px solid tomato;
+    border-radius: 10px;
+    max-width: 350px;
+    background-color: violet;
+    margin-bottom: 30px;
+    padding: 20px;
+}

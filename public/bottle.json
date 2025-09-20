@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Contigo Autoseal Chill 24oz",
+    "name": "Contigo Autoseal 24oz",
     "brand": "Contigo",
     "capacity_ml": 710,
     "material": "Stainless Steel",
@@ -15,7 +15,7 @@
   },
   {
     "id": 2,
-    "name": "Hydro Flask 32oz Wide Mouth",
+    "name": "Hydro Flask Mouth",
     "brand": "Hydro Flask",
     "capacity_ml": 946,
     "material": "Stainless Steel",
@@ -57,7 +57,7 @@
   },
   {
     "id": 5,
-    "name": "Brita Premium Filtering Bottle 26oz",
+    "name": "Brita Premium Filtering",
     "brand": "Brita",
     "capacity_ml": 770,
     "material": "Plastic",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "name": "Simple Modern Summit 64oz",
+    "name": "Simple Modern 64oz",
     "brand": "Simple Modern",
     "capacity_ml": 1890,
     "material": "Stainless Steel",
@@ -127,7 +127,7 @@
   },
   {
     "id": 10,
-    "name": "S'well Stainless Steel 17oz",
+    "name": "S'well Stainless ",
     "brand": "S'well",
     "capacity_ml": 500,
     "material": "Stainless Steel",
